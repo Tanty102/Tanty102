@@ -1,49 +1,118 @@
-# 👋 Xin chào! Tôi là Nguyễn Tấn Tỵ  
-# 👋 Hello! I'm Nguyen Tan Ty
+# 👋 Hello, I'm Nguyen Tan Ty
 
-💻 Lập trình viên backend & mobile với niềm đam mê xây dựng sản phẩm có giá trị thực tiễn.  
-💻 A backend & mobile developer passionate about building practical, impactful products.
+🚀 Fullstack Developer with over 3 years of experience building scalable web systems and cross-platform mobile applications.
 
-📍 Hiện tại tôi đang làm việc với **PHP (Laravel)** cho backend và **React Native** cho mobile app.  
-📍 Currently working with **PHP (Laravel)** for backend and **React Native** for mobile development.
+I specialize in developing backend systems with **PHP (Laravel, Yii2)** and creating modern mobile applications using **React Native**. Passionate about clean architecture, performance optimization, and building products that deliver real business value.
 
----
+Currently focused on:
 
-## 🚀 Kỹ năng chuyên môn / Core Skills
-
-- 🔧 Backend: PHP (Laravel), MySQL, RESTful API  
-- 📱 Mobile: React Native, Expo, Redux  
-- 🛠️ Others: Git, Basic Docker, CI/CD fundamentals
+* 🔹 Fullstack Web Development
+* 🔹 Mobile App Development
+* 🔹 System Optimization & Scalability
+* 🔹 UI/UX Improvement
+* 🔹 Enterprise Management Systems
 
 ---
 
-## 💡 Dự án tôi đã thực hiện / Featured Projects
+# 💻 Tech Stack
 
-| Tên Dự Án / Project | Mô tả / Description                   | Công nghệ / Tech Stack |
-|---------------------|----------------------------------------|------------------------|
-| Betech               | Ứng dụng thương mại điện tử di động / Mobile E-commerce app | Laravel, React Native |
-| Kaopo            | Hệ thống quản lý sự kiện trực tuyến / Online Event Management System | Laravel, Vue.js |
-| Citrine            | Quản lý công việc nhóm / Simple Team Task Manager | Laravel API, React Native |
+## 🚀 Backend Development
+
+* PHP
+* Laravel Framework
+* Yii2
+* RESTful API
+* MySQL
+* SQL Server
+
+## 🎨 Frontend & Mobile
+
+* React Native
+* JavaScript
+* HTML5
+* CSS3
+* Bootstrap 5
+
+## 🛠️ Tools & Workflow
+
+* Git & GitHub
+* VSCode
+* Postman
+* Database Design
+* Software Development Lifecycle
 
 ---
 
-## 🗂️ Mục tiêu cá nhân / Career Goals
+# 📱 Featured Projects
 
-- Nâng cao chuyên môn về kiến trúc phần mềm và DevOps  
-  Improve skills in software architecture & DevOps  
-- Học thêm về thiết kế giao diện & UX  
-  Learn more about UI design & user experience  
-- Đóng góp cho các dự án mã nguồn mở  
-  Contribute to open-source projects
+## 🏨 Hotel Booking Mobile Application
+
+Cross-platform mobile application for hotel booking and management systems.
+
+### Responsibilities
+
+* Developed Android & iOS applications using React Native
+* Built user-friendly booking interfaces
+* Integrated backend systems and optimized application performance
+* Improved user experience and mobile responsiveness
+
+### Tech Stack
+
+React Native, JavaScript, Laravel API
 
 ---
 
-## 📫 Kết nối với tôi / Connect With Me
+## 🦷 ERP System & Mobile App for Dental Clinic
 
-- 📧 Email: nguyentanty102@gmail.com  
-- 🐙 GitHub: [Github](https://github.com/Tanty102)
+Enterprise resource planning system for dental businesses.
+
+### Responsibilities
+
+* Developed backend modules using PHP Yii2
+* Built mobile applications for customers and employees
+* Worked on system optimization and database management
+* Participated in full software development lifecycle
+
+### Tech Stack
+
+PHP Yii2, React Native, MySQL
 
 ---
 
-> 💬 "Code không phải để hoàn hảo, mà để giải quyết vấn đề."  
-> 💬 "Code isn't meant to be perfect, it's meant to solve problems."
+## 🏢 Enterprise Management Systems
+
+Developed internal business management systems and administration dashboards.
+
+### Responsibilities
+
+* Built backend and frontend features using Laravel
+* Designed and maintained databases
+* Developed admin dashboards and management tools
+* Improved system stability and maintainability
+
+### Tech Stack
+
+Laravel, MySQL, Bootstrap, JavaScript
+
+---
+
+# 🎯 Career Goals
+
+* Become a stronger Fullstack Engineer with deep expertise in scalable system architecture
+* Improve knowledge in DevOps, cloud deployment, and application performance optimization
+* Continue building high-quality products with excellent user experiences
+* Collaborate on impactful real-world projects and contribute to the developer community
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: [nguyentanty102@gmail.com](mailto:nguyentanty102@gmail.com)
+🐙 GitHub: https://github.com/Tanty102
+🌐 Portfolio: https://tanty102.github.io/portfolio
+
+---
+
+# ⚡ Philosophy
+
+> “Great software is not only about writing code — it's about solving real problems, creating value, and continuously improving.”
